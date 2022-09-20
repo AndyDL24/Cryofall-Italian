@@ -11,6 +11,8 @@ Per scaricare la traduzione basta andare sul pulsante "code" poi selezionare il 
 Per installare la traduzione basta estrarre il file .zip sul vostro pc anche sul desktop, copiare il file all'interno della cartella delle mod del gioco, se non sapete come installare
 le mod fate riferimento a questa guida(in inglese): https://steamcommunity.com/sharedfiles/filedetails/?id=1704026333
 
+All'interno del gioco basta andare nelle impostazioni delle lingue in alto a destra e selezionare Italino
+
 Buon divertimento
 
 # Come segnalare un errore.

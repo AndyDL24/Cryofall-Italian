@@ -13,8 +13,8 @@ le mod fate riferimento a questa guida(in inglese): https://steamcommunity.com/s
 
 Atrimenti fate cosi:
 Incollate il file Italian.mpk all'interno della cartella %nomeutente%/Documenti/AtomicTorchStudio/Cryofall/Mods
-Intercettate il file "ModsConfig.xml" e aprilo con un qualsiasi editor di testo anche notepad, inserite <mod>ITLanguage</mod> subito sotto a
-<mod>core1.0.0</mod>
+Intercettate il file "ModsConfig.xml" e aprilo con un qualsiasi editor di testo anche notepad, inserite "<mod>ITLanguage</mod>" senza virgolette, subito sotto a
+"<mod>core1.0.0</mod>"
 Fate partire il gioco
 
 All'interno del gioco basta andare nelle impostazioni delle lingue in alto a destra e selezionare Italiano

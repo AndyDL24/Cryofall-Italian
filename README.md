@@ -11,6 +11,12 @@ Per scaricare la traduzione basta andare sul pulsante "code" poi selezionare il 
 Per installare la traduzione basta estrarre il file .zip sul vostro pc anche sul desktop, copiare il file all'interno della cartella delle mod del gioco, se non sapete come installare
 le mod fate riferimento a questa guida(in inglese): https://steamcommunity.com/sharedfiles/filedetails/?id=1704026333
 
+Atrimenti fate cosi:
+Incollate il file Italian.mpk all'interno della cartella %nomeutente%/Documenti/AtomicTorchStudio/Cryofall/Mods
+Intercettate il file "ModsConfig.xml" e apriremo con un qualsiasi editor di testo anche notepad, inserite <mod>ITLanguage</mod> subito sotto a
+<mod>core1.0.0</mod>
+Fate partire il gioco
+
 All'interno del gioco basta andare nelle impostazioni delle lingue in alto a destra e selezionare Italiano
 
 Buon divertimento
